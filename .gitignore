@@ -363,3 +363,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/FactoryMethod
+/AbstractFactory/solution3/BusinessDiagram.xml
+/AbstractFactory/solution2/BusinessDiagram.xml
+/AbstractFactory/solution1/BusinessDiagram.xml
