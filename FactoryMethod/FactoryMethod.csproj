@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="problem\factoryPattern1.xml" />
+    <None Remove="problem\problemDiagram.xml" />
+    <None Remove="solution1\solution1Diagram.png" />
+    <None Remove="solution1\solution1Diagram.xml" />
+    <None Remove="solution2\BusinessDiagram.xml" />
+    <None Remove="solution3\BusinessDiagram.xml" />
+  </ItemGroup>
+
+</Project>
